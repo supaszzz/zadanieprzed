@@ -13,6 +13,13 @@
     height: 100px;
 }
 
+.baner2 {
+    float: right;
+}
+.baner1 {
+    float: left;
+}
+
 .glowny {
     padding: 20px;
 }
